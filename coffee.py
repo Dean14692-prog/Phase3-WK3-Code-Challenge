@@ -1,4 +1,5 @@
 class Coffee:
+    
     all_coffees = []
 
     def __init__(self, name):
